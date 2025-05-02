@@ -16,10 +16,11 @@ A simple Android app built using **Kotlin + Jetpack Compose** that lets you mana
 
 ## 📱 Screenshots
 
-| Feature            | Preview                                    |
-|--------------------|--------------------------------------------|
-| **Main Interface** | ![Home Screen](docs/screenshots/wish.jpeg) |
-| **Add Wish**       | ![Add Wish](docs/screenshots/addwish.jpeg) |
+| Feature            | Preview |
+|--------------------|---------|
+| **Main Interface** | <img src="docs/screenshots/wish.jpeg" width="300"/> |
+| **Add Wish**       | <img src="docs/screenshots/addwish.jpeg" width="300"/> |
+
 
 ## 🛠️ Tech Stack
 
